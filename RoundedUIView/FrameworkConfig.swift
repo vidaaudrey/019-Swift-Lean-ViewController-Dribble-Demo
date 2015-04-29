@@ -23,5 +23,9 @@ public struct FrameworkConstants {
     public static let currencyAPIURLPrefix = "http://api.fixer.io/latest?symbols="
     public static let currencyAPIBaseURLPrefix = "http://api.fixer.io/latest?base="
     
+    public static let DRIBBLE_ACCESS_TOKEN = "01fc9f4f4195073f4f2a340df4bef928c9d5ad277fe8e27c47daa96bf75419a0"
+    public static let DRIBBLE_SHOT_URL = "https://api.dribbble.com/v1/shots"
+    public static let TEST_URL = "http://www.telize.com/geoip"
+    
 }
 

@@ -29,9 +29,9 @@ class User: DribbleBase {
         self.avatarUrl = Utils.getStringFromJSON(data, key: "avatar_url")
         
         self.location = Utils.getStringFromJSON(data, key: "location")
-        self.followingCount = data["followings_count"] as? Int
-        self.followersCount = data["followers_count"] as? Int
-        self.shotsCount = data["shots_count"] as? Int
+        self.followingCount = data["followings_count"] as! Int
+        self.followersCount = data["followers_count"] as! Int
+        self.shotsCount = data["shots_count"] as! Int
         
         self.shotsUrl = Utils.getStringFromJSON(data, key: "shots_url")
         self.followingUrl = Utils.getStringFromJSON(data, key: "following_url")

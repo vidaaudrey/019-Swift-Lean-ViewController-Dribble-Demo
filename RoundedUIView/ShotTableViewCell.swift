@@ -60,10 +60,4 @@ class ShotTableViewCell: UITableViewCell {
         }
     }
 
-    @IBAction func favButtonPressed(sender: UIButton) {
-        println("faved")
-    }
-    @IBAction func saveButtonPressed(sender: UIButton) {
-        println("saved")
-    }
 }

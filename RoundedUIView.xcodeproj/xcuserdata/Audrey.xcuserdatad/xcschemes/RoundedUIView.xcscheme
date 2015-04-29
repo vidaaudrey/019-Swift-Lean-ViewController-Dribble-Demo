@@ -17,7 +17,7 @@
                BlueprintIdentifier = "7601DECE1AF006AE00CED7CB"
                BuildableName = "RoundedUIView.app"
                BlueprintName = "RoundedUIView"
-               ReferencedContainer = "container:019-Swift-Lean-ViewController-Dribble-Demo.xcodeproj">
+               ReferencedContainer = "container:RoundedUIView.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -31,7 +31,7 @@
                BlueprintIdentifier = "7601DEE31AF006AE00CED7CB"
                BuildableName = "RoundedUIViewTests.xctest"
                BlueprintName = "RoundedUIViewTests"
-               ReferencedContainer = "container:019-Swift-Lean-ViewController-Dribble-Demo.xcodeproj">
+               ReferencedContainer = "container:RoundedUIView.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -49,7 +49,7 @@
                BlueprintIdentifier = "7601DEE31AF006AE00CED7CB"
                BuildableName = "RoundedUIViewTests.xctest"
                BlueprintName = "RoundedUIViewTests"
-               ReferencedContainer = "container:019-Swift-Lean-ViewController-Dribble-Demo.xcodeproj">
+               ReferencedContainer = "container:RoundedUIView.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -59,7 +59,7 @@
             BlueprintIdentifier = "7601DECE1AF006AE00CED7CB"
             BuildableName = "RoundedUIView.app"
             BlueprintName = "RoundedUIView"
-            ReferencedContainer = "container:019-Swift-Lean-ViewController-Dribble-Demo.xcodeproj">
+            ReferencedContainer = "container:RoundedUIView.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -79,7 +79,7 @@
             BlueprintIdentifier = "7601DECE1AF006AE00CED7CB"
             BuildableName = "RoundedUIView.app"
             BlueprintName = "RoundedUIView"
-            ReferencedContainer = "container:019-Swift-Lean-ViewController-Dribble-Demo.xcodeproj">
+            ReferencedContainer = "container:RoundedUIView.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -98,7 +98,7 @@
             BlueprintIdentifier = "7601DECE1AF006AE00CED7CB"
             BuildableName = "RoundedUIView.app"
             BlueprintName = "RoundedUIView"
-            ReferencedContainer = "container:019-Swift-Lean-ViewController-Dribble-Demo.xcodeproj">
+            ReferencedContainer = "container:RoundedUIView.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

@@ -24,9 +24,9 @@ class Shot: DribbleBase {
     
     override init(data: NSDictionary){
         super.init(data: data)
-        self.commentCount = data["comments_count"] as? Int
-        self.likesCount = data["likes_count"] as? Int
-        self.viewsCount = data["views_count"] as? Int
+        self.commentCount = data["comments_count"] as! Int
+        self.likesCount = data["likes_count"] as! Int
+        self.viewsCount = data["views_count"] as! Int
         
         self.commentUrl = Utils.getStringFromJSON(data, key: "comments_url")
         self.title = Utils.getStringFromJSON(data, key: "title")

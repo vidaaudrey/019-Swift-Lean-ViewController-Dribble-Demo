@@ -103,7 +103,7 @@ class ViewController: UIViewController, UIViewControllerTransitioningDelegate, U
         case .DidSelect:
             println("selecting \(indexPath.row)")
         case .DidDeselect:
-           tableView.deselectRowAtIndexPath(indexPath, animated: true) // call it to make sure it does deselect. (Sometime, it does)
+           tableView.deselectRowAtIndexPath(indexPath, animated: true) // call it to make sure it does deselect. (Sometime, it doesn't)
            println("deselected \(indexPath.row)")
 
         case .Delete:

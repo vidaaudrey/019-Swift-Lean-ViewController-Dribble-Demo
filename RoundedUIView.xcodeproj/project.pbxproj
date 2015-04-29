@@ -102,7 +102,7 @@
 			isa = PBXGroup;
 			children = (
 				7601DED11AF006AE00CED7CB /* RoundedUIView */,
-				7601DEE71AF006AE00CED7CB /* 019-Swift-Lean-ViewController-Dribble-DemoTests */,
+				7601DEE71AF006AE00CED7CB /* RoundedUIViewTests */,
 				7601DED01AF006AE00CED7CB /* Products */,
 			);
 			sourceTree = "<group>";
@@ -144,13 +144,12 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		7601DEE71AF006AE00CED7CB /* 019-Swift-Lean-ViewController-Dribble-DemoTests */ = {
+		7601DEE71AF006AE00CED7CB /* RoundedUIViewTests */ = {
 			isa = PBXGroup;
 			children = (
 				7601DEEA1AF006AE00CED7CB /* RoundedUIViewTests.swift */,
 				7601DEE81AF006AE00CED7CB /* Supporting Files */,
 			);
-			name = "019-Swift-Lean-ViewController-Dribble-DemoTests";
 			path = RoundedUIViewTests;
 			sourceTree = "<group>";
 		};
@@ -256,7 +255,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 7601DECA1AF006AE00CED7CB /* Build configuration list for PBXProject "019-Swift-Lean-ViewController-Dribble-Demo" */;
+			buildConfigurationList = 7601DECA1AF006AE00CED7CB /* Build configuration list for PBXProject "RoundedUIView" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -500,7 +499,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		7601DECA1AF006AE00CED7CB /* Build configuration list for PBXProject "019-Swift-Lean-ViewController-Dribble-Demo" */ = {
+		7601DECA1AF006AE00CED7CB /* Build configuration list for PBXProject "RoundedUIView" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				7601DEEC1AF006AE00CED7CB /* Debug */,
